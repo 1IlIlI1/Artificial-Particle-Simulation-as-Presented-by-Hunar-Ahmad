@@ -58,18 +58,12 @@ Music in the video:
 <a href="https://www.google.com/search?client=firefox-b-1-d&q=Cjbeards+-+Fire+and+Thunder#fpstate=ive&vld=cid:b56f86b9,vid:gFEdaO8rBTM" target="_blank">Cjbeards - Fire and Thunder</a>
 
 <a href="https://www.youtube.com/watch?v=x-xpMRCnJRE" target="_blank">Death Note - Low of Solipsism</a>
-
 <a href="https://www.youtube.com/watch?v=UtwES8o9HM4" target="_blank">Firefly in a Fairytale - Gareth Coker / also known as Veritasium's theme music</a>
-
 <a href="https://www.youtube.com/watch?v=vJY-xumHRpw" target="_blank">Buried Desire - Divine</a>
 
+
 <a href="https://www.youtube.com/watch?v=0Kx4Y9TVMGg&t=0s" target="_blank">00:00 Simulation Demo</a>
-
 <a href="https://www.youtube.com/watch?v=0Kx4Y9TVMGg&t=160s" target="_blank">02:40 Code Walkthrough </a>
-
 <a href="https://www.youtube.com/watch?v=0Kx4Y9TVMGg&t=508s" target="_blank">08:28 The Program</a>
-
 <a href="https://www.youtube.com/watch?v=0Kx4Y9TVMGg&t=548s" target="_blank">09:08 Explanation</a>
-
 <a href="https://www.youtube.com/watch?v=0Kx4Y9TVMGg&t=685s" target="_blank">11:25 More Demos</a>
-
