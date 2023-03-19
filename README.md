@@ -6,7 +6,7 @@ https://hunar4321.github.io/particle-life/particle_life.html#91651088029
 
 
 ## This video and what Hunar Ahmad did has haunted me for a few months so I wanted to try it myself.<br>
-##I'ma total suck noob at coding (like I had to google how to do a break<br> facepalm. I know a smidge of C++ in that I don't know C++ but kinda can read the syntax but have to google tons of crap.  I know no JavaScript.  But I really wanna learn.  It seems like magic and there is no such thing as magic except doing.
+## I'ma total suck noob at coding (like I had to google how to do a break<br> facepalm. I know a smidge of C++ in that I don't know C++ but kinda can read the syntax but have to google tons of crap.  I know no JavaScript.  But I really wanna learn.  It seems like magic and there is no such thing as magic except doing.
 
 
 Taken from Youtube Description:
