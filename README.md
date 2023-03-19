@@ -1,4 +1,4 @@
-# Artificial-Particle-Simulation-as-Presented-by-Hunar-Ahmad
+# Artificial-Particle-Simulation-as-Presented-by-Hunar-Ahmad-and-then-broken-down-step-by-step-and-wanna-try-adding-fractalization-and-other-stuff
 
 https://www.youtube.com/watch?v=0Kx4Y9TVMGg&amp;list=PLlZbDC4kPlUlwaZLfoGKeoxdSeBrwhqzh&amp;index=5&amp;t=160s
 
