@@ -9,11 +9,11 @@ https://hunar4321.github.io/particle-life/particle_life.html#91651088029
 ## I'ma total suck noob at coding (like I had to google how to do a break<br> facepalm. I know a smidge of C++ in that I don't know C++ but kinda can read the syntax but have to google tons of crap.  I know no JavaScript.  But I really wanna learn.  It seems like magic and there is no such thing as magic except doing.
 
 
-Taken from Youtube Description:
+Taken from Youtube Description: (except with liberally applied html and hyperlink and some extra links link)
 
  Artificial Particle Life - Simulation & Code
 
-[Brainxyz](https://www.brainxyz.com/)<br>
+[Brainxyz](https://www.brainxyz.com/) <---His Company Website looks cool.  Might need to double check this out.<br> 
 Aug 23, 2022 <br>
 <br>
 #evolution #simulator #game<br>
