@@ -5,7 +5,8 @@ https://www.youtube.com/watch?v=0Kx4Y9TVMGg&amp;list=PLlZbDC4kPlUlwaZLfoGKeoxdSe
 https://hunar4321.github.io/particle-life/particle_life.html#91651088029
 
 
-This video and what Hunar Ahmad did has haunted me for a few months so I wanted to try it myself.  
+###This video and what Hunar Ahmad did has haunted me for a few months so I wanted to try it myself.###
+I'ma total suck noob at coding (like I had to google how to do a break /<br> facepalm.  But I really wanna learn.  It seems like magic and there is no such thing as magic except doing.
 
 
 Taken from Youtube Description:
